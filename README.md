@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou José!
+# 👋 Olá, Meu nome é José Carlos !
 
 Estou iniciando na área de programação e explorando o GitHub para aprender e compartilhar meu progresso! 🚀
 
