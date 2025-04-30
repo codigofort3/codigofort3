@@ -4,7 +4,7 @@ Estou iniciando na área de programação e explorando o GitHub para aprender e 
 
 ## 🛠️ O que estou aprendendo
 Atualmente estou estudando:
-- 💻 Faço faculdade de Desenvolvimento Back-end na Univercidade Cruzeiro do Sul.
+- 💻 Faço faculdade de Desenvolvimento Back-end na Universidade Cruzeiro do Sul.
 - 💻 **Linguagens:** Python, HTML, CSS, JavaScript
 - 📦 **Ferramentas:** Git, VS Code
 - 📖 **Próximos passos:** Aprender sobre frameworks e aprofundar meus conhecimentos
