@@ -4,6 +4,7 @@ Estou iniciando na área de programação e explorando o GitHub para aprender e 
 
 ## 🛠️ O que estou aprendendo
 Atualmente estou estudando:
+- 💻 FullStack Python e AI - https://infinityschool.com.br/
 - 💻 Faço faculdade de Desenvolvimento Back-end na Universidade Cruzeiro do Sul.
 - 💻 **Linguagens:** Python, HTML, CSS, JavaScript
 - 📦 **Ferramentas:** Git, VS Code
